@@ -1,0 +1,376 @@
+{
+    "en-BY": {
+        "styles": {
+            "bg": "#f3f4f1",
+            "lang-select-color": "#222829",
+            "bg-light": "#25ac61",
+            "welcome-bonus-bg": "#deeadf",
+            "top-games-hover-fg": "#deeadf",
+            "main-bg": "#f3f4f1",
+            "text": "#222829",
+            "text-black": "#ffffff",
+            "table-head": "#25ac61",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#fb333d",
+            "yellow": "#17d26a",
+            "yellow-button": "#fb333d",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#deeadf",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#77d09f",
+            "faq-label": "#deeadf",
+            "bg-footer": "#25ac61",
+            "copyright": "#e7e7d5",
+            "starColor": "#17d26a",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Paf Casino Sverige",
+            "title": "Paf Casino Sverige: Licensierat kasino med bonusar och coola spel",
+            "description": "Paf Casino Sweden erbjuder snabba uttag, satsningsfria bonusar, ett brett urval av spel, s\u00e4kra ins\u00e4ttningar och uttag. Spela med komfort och s\u00e4kerhet och gl\u00f6m inte att h\u00e4mta din bonus!",
+            "canonical": "#",
+            "ogImage": "https://paf-casino-online.com/images/og_image.webp",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "@pafcasino",
+            "favicon": "https://paf-casino-online.com/favicon.ico",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https://paf-casino-online.com/icons/icon-192x192.webp"
+        },
+        "header": {
+            "logo": "https://paf-casino-online.com/_next/static/media/logo.9568bf57.svg",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Paf Casino Sverige Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "hero": {
+            "title": "H1 title about casino",
+            "textDesktop": "Exclusive welcome offer of",
+            "textMobile": "Exclusive welcome bonus of",
+            "playGame": "Play game",
+            "claimBonus": "Claim Bonus",
+            "image": "https://paf-casino-online.com/images/hero-group.webp",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileImage": "https://paf-casino-online.com/images/hero-mobile.webp",
+            "mobileImageSizeModifier": 0,
+            "mobileImageYModifier": 0,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Claim Bonus",
+            "title": "Top Casino",
+            "allCasino": "All Casino",
+            "welcomeBonusText": "Welcome bonus"
+        },
+        "bonusDetails": {
+            "title": "Bonus Details",
+            "getBonusButtonText": "Get Bonus",
+            "maximumAmountText": "Maximum amount",
+            "wagerText": "Wager",
+            "bonusCodeText": "Bonus Code",
+            "casino": "Casino",
+            "bonuses": "Bonuses",
+            "rate": "Rate",
+            "freeSpins": "Free Spins",
+            "moreInfo": "More Info",
+            "get": "Get",
+            "refresh": "Refresh"
+        },
+        "advantages": {
+            "title": "Advantages",
+            "advantagesBeforeText": "Some text before list",
+            "items": [
+                "Legal and safe casino",
+                "Quick registration",
+                "Data protection",
+                "No wagering bonus",
+                "Wide range of games"
+            ],
+            "advantagesAfterText": "Some text after list",
+            "knowMore": "Know more",
+            "appTitle": "Mobile App",
+            "mobile": "https://paf-casino-online.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmobile.cd4410fa.webp&w=384&q=75",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Mobile App",
+            "mobileGooglePlayImageTitle": "Mobile App",
+            "mobileIosImageTitle": "Mobile App"
+        },
+        "games": {
+            "playNowText": "Play now",
+            "title": "Popular Games",
+            "allGames": "All Games"
+        },
+        "about": {
+            "history": {
+                "title": "History",
+                "description1": "First paragraph of history",
+                "items": [
+                    "History item 1",
+                    "History item 2"
+                ],
+                "description2": "Second paragraph of history",
+                "image": "https://paf-casino-online.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FMacBook-Pro.b62d8565.webp&w=750&q=75",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": "Third paragraph of history"
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "Title for custom section",
+                "description": "<ul><li>bonuses</li><li>games</li><li>license</li><li>advantages</li></ul>"
+            }
+        },
+        "softwareProviders": {
+            "title": "Software Providers"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Title for custom section",
+                "description": "<ul><li>bonuses</li><li>games</li><li>license</li><li>advantages</li></ul>"
+            }
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "title": "FAQ Question 1",
+                    "answer": "FAQ Answer 1"
+                },
+                {
+                    "title": "FAQ Question 2",
+                    "answer": "FAQ Answer 2"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https://paf-casino-online.com/images/og_image.webp",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Paf Casino"
+        }
+    },
+    "ru-RU": {
+        "styles": {
+            "bg": "#000000",
+            "lang-select-color": "#222829",
+            "bg-light": "#25ac61",
+            "welcome-bonus-bg": "#deeadf",
+            "top-games-hover-fg": "#deeadf",
+            "main-bg": "#f3f4f1",
+            "text": "#222829",
+            "text-black": "#ffffff",
+            "table-head": "#25ac61",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#fb333d",
+            "yellow": "#17d26a",
+            "yellow-button": "#fb333d",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#deeadf",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#77d09f",
+            "faq-label": "#deeadf",
+            "bg-footer": "#25ac61",
+            "copyright": "#e7e7d5",
+            "starColor": "#17d26a",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Paf Casino Sverige",
+            "title": "Paf Casino Sverige: Licensierat kasino med bonusar och coola spel",
+            "description": "Paf Casino Sweden erbjuder snabba uttag, satsningsfria bonusar, ett brett urval av spel, s\u00e4kra ins\u00e4ttningar och uttag. Spela med komfort och s\u00e4kerhet och gl\u00f6m inte att h\u00e4mta din bonus!",
+            "canonical": "#",
+            "ogImage": "https://paf-casino-online.com/images/og_image.webp",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "@pafcasino",
+            "favicon": "https://paf-casino-online.com/favicon.ico",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https://paf-casino-online.com/icons/icon-192x192.webp"
+        },
+        "header": {
+            "logo": "https://paf-casino-online.com/_next/static/media/logo.9568bf57.svg",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Paf Casino Sverige Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "hero": {
+            "title": "H1 title about casino",
+            "textDesktop": "Exclusive welcome offer of",
+            "textMobile": "Exclusive welcome bonus of",
+            "playGame": "Play game",
+            "claimBonus": "Claim Bonus",
+            "image": "https://paf-casino-online.com/images/hero-group.webp",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileImage": "https://paf-casino-online.com/images/hero-mobile.webp",
+            "mobileImageSizeModifier": 0,
+            "mobileImageYModifier": 0,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Claim Bonus",
+            "title": "Top Casino",
+            "allCasino": "All Casino",
+            "welcomeBonusText": "Welcome bonus"
+        },
+        "bonusDetails": {
+            "title": "Bonus Details",
+            "getBonusButtonText": "Get Bonus",
+            "maximumAmountText": "Maximum amount",
+            "wagerText": "Wager",
+            "bonusCodeText": "Bonus Code",
+            "casino": "Casino",
+            "bonuses": "Bonuses",
+            "rate": "Rate",
+            "freeSpins": "Free Spins",
+            "moreInfo": "More Info",
+            "get": "Get",
+            "refresh": "Refresh"
+        },
+        "advantages": {
+            "title": "Advantages",
+            "advantagesBeforeText": "Some text before list",
+            "items": [
+                "Legal and safe casino",
+                "Quick registration",
+                "Data protection",
+                "No wagering bonus",
+                "Wide range of games"
+            ],
+            "advantagesAfterText": "Some text after list",
+            "knowMore": "Know more",
+            "appTitle": "Mobile App",
+            "mobile": "https://paf-casino-online.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmobile.cd4410fa.webp&w=384&q=75",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Mobile App",
+            "mobileGooglePlayImageTitle": "Mobile App",
+            "mobileIosImageTitle": "Mobile App"
+        },
+        "games": {
+            "playNowText": "Play now",
+            "title": "Popular Games",
+            "allGames": "All Games"
+        },
+        "about": {
+            "history": {
+                "title": "History",
+                "description1": "First paragraph of history",
+                "items": [
+                    "History item 1",
+                    "History item 2"
+                ],
+                "description2": "Second paragraph of history",
+                "image": "https://paf-casino-online.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FMacBook-Pro.b62d8565.webp&w=750&q=75",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": "Third paragraph of history"
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "Title for custom section",
+                "description": "<ul><li>bonuses</li><li>games</li><li>license</li><li>advantages</li></ul>"
+            }
+        },
+        "softwareProviders": {
+            "title": "Software Providers"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Title for custom section",
+                "description": "<ul><li>bonuses</li><li>games</li><li>license</li><li>advantages</li></ul>"
+            }
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "title": "FAQ Question 1",
+                    "answer": "FAQ Answer 1"
+                },
+                {
+                    "title": "FAQ Question 2",
+                    "answer": "FAQ Answer 2"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https://paf-casino-online.com/images/og_image.webp",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Paf Casino"
+        }
+    },
+    "langs": [
+        {
+            "code": "en-BY",
+            "name": "\u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439",
+            "isDefault": true
+        },
+        {
+            "code": "ru-RU",
+            "name": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439",
+            "isDefault": false
+        }
+    ]
+}

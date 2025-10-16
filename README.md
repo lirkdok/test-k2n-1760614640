@@ -1,2 +1,9 @@
-# test-k2n-1760614640
-Site: Test K2n
+# Test K2n
+
+
+
+Built on: 2025-10-16 11:39:15
+
+Available languages:
+- en-BY
+- ru-RU
